@@ -1,3 +1,15 @@
 [submodule "src/android_openssl"]
 	path = src/android_openssl
-	url = https://github.com/KDAB/android_openssl.git
+	url = git@github.com:KDAB/android_openssl.git
+[submodule "src/soup/spdlog"]
+	path = src/soup/spdlog
+	url = git@github.com:gabime/spdlog.git
+[submodule "src/soup/statusbar"]
+	path = src/soup/statusbar
+	url = git@github.com:jpnurmi/qtstatusbar.git
+[submodule "src/soup/QtAndroidTools"]
+	path = src/soup/QtAndroidTools
+	url = git@github.com:FalsinSoft/QtAndroidTools.git
+[submodule "src/soup/SortFilterProxyModel"]
+	path = src/soup/SortFilterProxyModel
+	url = git@github.com:oKcerG/SortFilterProxyModel.git
