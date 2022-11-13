@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qml/pages">
+        <file>qmldir</file>
+        <file>AboutPage.qml</file>
+        <file>HomePage.qml</file>
+        <file>InitialItemPage.qml</file>
+        <file>TrackDetailPage.qml</file>
+        <file>AppPage.qml</file>
+        <file>FlickablePage.qml</file>
+    </qresource>
+</RCC>

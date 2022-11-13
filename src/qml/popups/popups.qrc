@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/qml/popups">
+        <file>PopupToast.qml</file>
+        <file>PopupOK.qml</file>
+        <file>PopupExit.qml</file>
+        <file>PopupError.qml</file>
+        <file>PopupInfo.qml</file>
+        <file>DatePicker.qml</file>
+        <file>LetterPicker.qml</file>
+        <file>PopupUpdate.qml</file>
+        <file>TimePicker.qml</file>
+    </qresource>
+</RCC>

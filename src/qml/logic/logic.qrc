@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml/logic">
+        <file>Logic.qml</file>
+        <file>Client.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

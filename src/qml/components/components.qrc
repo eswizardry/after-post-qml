@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/qml/components">
+        <file>SwipeArea.qml</file>
+        <file>ButtonFlat.qml</file>
+        <file>SearchTextPane.qml</file>
+        <file>ButtonIconActive.qml</file>
+        <file>DotMarker.qml</file>
+        <file>FloatingActionMiniButton.qml</file>
+        <file>HorizontalDivider.qml</file>
+        <file>HorizontalListDivider.qml</file>
+        <file>ComboBoxButton.qml</file>
+        <file>ComboBoxModal.qml</file>
+        <file>ComboBoxWithIcon.qml</file>
+        <file>MenuItemWithDot.qml</file>
+        <file>MenuItemWithIcon.qml</file>
+        <file>TextAreaRow.qml</file>
+        <file>TextFieldDecimal.qml</file>
+        <file>TextFieldDoubleInt.qml</file>
+        <file>TextFieldInt.qml</file>
+        <file>VerticalDivider.qml</file>
+        <file>ButtonOneChar.qml</file>
+        <file>ButtonOneCharUncolored.qml</file>
+        <file>ButtonRaised.qml</file>
+        <file>CharButton.qml</file>
+        <file>CharCircle.qml</file>
+        <file>CommunicationButton.qml</file>
+        <file>CommunicationMenu.qml</file>
+        <file>FloatingActionButton.qml</file>
+        <file>FooterCancelSave.qml</file>
+        <file>LabelBody.qml</file>
+        <file>LabelBodySecondary.qml</file>
+        <file>LabelCaption.qml</file>
+        <file>LabelDisplay1.qml</file>
+        <file>LabelDisplay2.qml</file>
+        <file>LabelDisplay3.qml</file>
+        <file>LabelDisplay4.qml</file>
+        <file>LabelHeadline.qml</file>
+        <file>LabelSubheading.qml</file>
+        <file>LabelTitle.qml</file>
+        <file>ListRowButton.qml</file>
+        <file>SimpleTextTitle.qml</file>
+        <file>StackTextTitle.qml</file>
+        <file>SwipeTextTitle.qml</file>
+        <file>SwitchWithLeftLabel.qml</file>
+        <file>CompTableView.qml</file>
+        <file>LabelBarRow.qml</file>
+        <file>SimpleRow.qml</file>
+        <file>AppListView.qml</file>
+        <file>FaButton.qml</file>
+        <file>qmldir</file>
+        <file>FaToolButton.qml</file>
+    </qresource>
+    <qresource prefix="/qml/component"/>
+    <qresource prefix="/"/>
+</RCC>

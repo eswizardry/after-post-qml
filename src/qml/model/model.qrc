@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml/model">
+        <file>DataModel.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/qml/navigations">
+        <file>Destination.qml</file>
+        <file>DrawerDivider.qml</file>
+        <file>DrawerFavoritesMenuButton.qml</file>
+        <file>DrawerFavoritesNavigationBar.qml</file>
+        <file>DrawerFavoritesNavigationButton.qml</file>
+        <file>DrawerNavigationBar.qml</file>
+        <file>DrawerNavigationButton.qml</file>
+        <file>DrawerNavigationTextButton.qml</file>
+        <file>DrawerSubtitle.qml</file>
+        <file>DrawerTitleBar.qml</file>
+        <file>NavigationStack.qml</file>
+        <file>qmldir</file>
+    </qresource>
+</RCC>

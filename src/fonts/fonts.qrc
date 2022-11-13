@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>Roboto-Regular.ttf</file>
+        <file>Roboto-Light.ttf</file>
+        <file>Font Awesome 5 Brands-Regular-400.otf</file>
+        <file>Font Awesome 5 Free-Regular-400.otf</file>
+        <file>Font Awesome 5 Free-Solid-900.otf</file>
+        <file>Roboto-Thin.ttf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qml/soup">
+        <file>qmldir</file>
+        <file>qml-utils/JSONListModel/JSONListModel.qml</file>
+        <file>qml-utils/JSONListModel/jsonpath.js</file>
+    </qresource>
+</RCC>

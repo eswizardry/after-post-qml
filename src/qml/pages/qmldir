@@ -1,0 +1,6 @@
+AppPage             AppPage.qml
+FlickablePage       FlickablePage.qml
+InitialItemPage     InitialItemPage.qml
+AboutPage           AboutPage.qml
+HomePage            HomePage.qml
+TrackDetailPage     TrackDetailPage.qml
