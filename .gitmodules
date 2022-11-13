@@ -13,3 +13,6 @@
 [submodule "src/soup/SortFilterProxyModel"]
 	path = src/soup/SortFilterProxyModel
 	url = git@github.com:oKcerG/SortFilterProxyModel.git
+[submodule "src/qml/soup/qml-utils"]
+	path = src/qml/soup/qml-utils
+	url = git@github.com:kromain/qml-utils.git
