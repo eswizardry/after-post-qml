@@ -10,9 +10,9 @@ QtObject {
   id: style
   property int lineSize: 1
 
-  property int roundness: 3
+  property int roundness: 4
 
-  property int spacingSmall: 3
-  property int spacingNormal: 6
+  property int spacingSmall: 4
+  property int spacingNormal: 8
   property int spacingBig: 12
 }
